@@ -62,13 +62,3 @@ This dashboard demonstrates:
 * Skills in **Power BI**, **DAX**, **data modeling**, and **visual storytelling**
 * Experience building interactive business dashboards from raw data
 
----
-
-If you want, I can also add:
-
-✅ Screenshots section
-✅ Installation/setup steps
-✅ Project description banner
-✅ Technologies badges
-
-Just tell me!
